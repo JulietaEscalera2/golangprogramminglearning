@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func PrintHello() {
+func PrintExample1() {
 	fmt.Println("Hello, Modules! This is mypackage speaking!")
-	fmt.Println("Hello, Modules! This is mypackage speaking! second line")
+	fmt.Println("Hello, Modules!!!!! This is mypackage speaking!")
 }
