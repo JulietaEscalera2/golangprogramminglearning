@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func PrintfeatureMessages() {
-	fmt.Println("Hello, Modules! This is mypackage speaking!")
+func PrintlnADifferentMesaage() {
+	fmt.Println(" Modules! This is mypackage speaking!")
 
 }
