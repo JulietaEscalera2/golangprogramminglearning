@@ -4,3 +4,6 @@ import "fmt"
 func test(){
 	fmt.Println("Test example")
 }
+func main(){
+	test()
+}
